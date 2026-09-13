@@ -1,0 +1,6 @@
+{
+  "name": "JanVani 2026",
+  "description": "National citizen grievance redressal & municipal SLA portal: statutory 48-hour resolution, 3-tier GIS map spotter, civic reels, welfare schemes, and voice seva.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
