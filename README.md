@@ -1,5 +1,35 @@
 # JanVaani
 
+> AI-powered civic development intelligence platform.
+
+## About
+
+JanVaani is a team-built civic-tech project developed during
+**Build with AI: Code for Communities 2.0 – Indore Edition**
+organized by **GDG Indore**.
+
+The platform focuses on multilingual citizen reporting, transparent
+demand hotspots, investment context, and explainable development priorities.
+
+## My Contribution
+
+I contributed primarily to the **backend development** while also
+working on parts of the frontend and enhancing the project after the
+initial team implementation.
+
+My work included backend development, API integration, application
+logic, AI-assisted implementation, and frontend improvements.
+
+**Team:** Teen Titans
+
+## Tech Stack
+
+- Python
+- FastAPI
+- Uvicorn
+- Vite
+- AI / Google ADK
+- REST APIs
 Premium civic development intelligence demo: multilingual citizen reporting, transparent demand hotspots, investment context, and explainable development priorities.
 
 ## 1. Backend (Windows PowerShell)
